@@ -18,5 +18,10 @@ Python Script for Fetching Data from the movie DB website
  
 <h2> Example usage</h2>
 
-!(1.png)
-!(2.png)
+<p align="center">
+	<img src="https://github.com/c0mr4d3/Movie-DB-Fetcher/blob/master/1.png" width="400">
+</p>
+
+<p align="center">
+	<img src="https://github.com/c0mr4d3/Movie-DB-Fetcher/blob/master/2.png" width="400">
+</p>
